@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "url": "http://swapi.dev/api/vehicles/24/"
+    "url": "http://swapi.dev/api/vehicles/24/",
     "name": "Dropping the Heart Chute",
     "description": "The heart chute is one of my favorite chutes",
     "category": "ACTION",
