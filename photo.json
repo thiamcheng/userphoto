@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "url": "http://swapi.dev/api/vehicles/24/",
+    "photoname": "Dropping the Heart Chute",
+    "description": "The heart chute is one of my favorite chutes",
+    "category": "ACTION"
+  },
+  {
+    "id": 2,
+    "url": "http://swapi.dev/api/vehicles/24/",
+    "photoname": "Enjoying the sunshine",
+    "description": "Sunshine at Hanoi besides the Westlake",
+    "category": "SELFIE"
+  },
+  {
+    "id": 3,
+    "url": "http://swapi.dev/api/vehicles/24/",
+    "photoname": "Gunbarrel 25",
+    "description": "25 laps on gunbarrel today",
+    "category": "LANDSCAPE"
+  }
+]
